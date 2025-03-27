@@ -1,4 +1,5 @@
 # Crypto Price App
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/8adefab3-d656-4e3f-ad6b-aee687cb0752" />
 
 ## Overview
 The **Crypto Price App** is a Streamlit-based web application that fetches and displays cryptocurrency prices using the CoinMarketCap API. The app provides real-time price data for selected cryptocurrencies and allows users to track price changes over the past 24 hours.
@@ -43,7 +44,7 @@ To use the CoinMarketCap API, you need an API key. Store your API key securely i
 ## Running the Application
 To start the Streamlit app, run the following command:
 ```sh
-streamlit run app.py
+streamlit run cryto_price_app.py
 ```
 
 ## Usage
